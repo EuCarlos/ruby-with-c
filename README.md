@@ -1,0 +1,1 @@
+Testing (ffi)[https://github.com/ffi/ffi] library in ruby with C language.
